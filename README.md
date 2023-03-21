@@ -4,4 +4,4 @@
 
 *Date Published: March 19,2023*
 
-[package link]: https://www.npmjs.com/package/jsmodule286
+[packageLink] (https://www.npmjs.com/package/jsmodule286)

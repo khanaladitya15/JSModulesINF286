@@ -1,3 +1,7 @@
-# JSModulesINF286
+# JSModulesINF286 
 
-package link: https://www.npmjs.com/package/jsmodule286
+## My first NPM Package
+
+*Date Published: March 19,2023*
+
+[package link]: https://www.npmjs.com/package/jsmodule286
